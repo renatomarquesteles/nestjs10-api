@@ -20,9 +20,9 @@ PATCH http://localhost:3000/categories/1
 Content-Type: application/json
 
 {
-  "name": "Category supertest",
-  "description": "Category supertest"
+  "name": "Documentaries",
+  "description": "xpto"
 }
 
 ###
-DELETE http://localhost:3000/categories/1
+DELETE http://localhost:3000/categories/3
